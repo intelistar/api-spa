@@ -33,7 +33,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ![изображение](https://github.com/intelistar/api-spa/assets/152069707/43b69a62-a820-441f-9385-1cfef9354ea4)
-![изображение](https://github.com/intelistar/api-spa/assets/152069707/c016ad3a-60cc-43f1-8e55-9f7925b00b33)
+![изображение](https://github.com/intelistar/api-spa/assets/152069707/db909ea3-97e7-485c-90f4-1efe551b3683)
 
 
 
