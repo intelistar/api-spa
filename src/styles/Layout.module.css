@@ -1,0 +1,12 @@
+.link {
+  color: rgb(107, 107, 107);
+  text-decoration: none;
+  font-size: 1.1rem;
+  transition: all 200ms ease-in;
+}
+.link:hover {
+  color: black;
+}
+.selected {
+  color: black;
+}
